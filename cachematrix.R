@@ -1,3 +1,6 @@
+## This is the solution for the Assignment 2 of R-programming course @ Coursera.
+## There are 2 functions makeCacheMatrix and cacheSolve to calculate and store the result of matrix invertion.
+
 ## makeCacheMatrix function  creates a list of 4  functions: 
 ## set, get, setInverse and getInverse.
 ## The assignment operator <<- is used to hide
